@@ -1,5 +1,5 @@
 # tryondiffusion
-Unofficial PyTorch implementation of the Try-On algorithm (tryondiffusion, PIDM).
+Unofficial PyTorch implementation of the Try-On algorithm (tryondiffusion, sd+cn, PIDM).
 
 <img width="749" alt="image" src="https://github.com/La-fe/tryondiffusion/assets/37364197/3306bf70-7402-4e0d-9ceb-5f5f5e79cd6f">
 
@@ -16,7 +16,12 @@ Text2Human: https://github.com/yumingj/Text2Human
 
 deepfashion: https://github.com/yumingj/DeepFashion-MultiModal  
 
+## try-on 
+stable diffusion, controlNet
 
+![image](https://github.com/La-fe/tryondiffusion/assets/37364197/0e5b2f9c-92fd-4274-a0cf-4d20c84f646b)
+
+<img width="1052" alt="image" src="https://github.com/La-fe/tryondiffusion/assets/37364197/549c73a4-6988-405a-bf23-a41a9b736b1c">
 
 
 
