@@ -8,13 +8,13 @@ Unofficial PyTorch implementation of the Try-On algorithm.
 
 
 ## datasets: 
-VBC: https://vision.cs.ubc.ca/datasets/fashion/
-      https://vision.cs.ubc.ca/datasets/fashion/resources/fashion_dataset/fashion_train.txt
-github: https://github.com/ubc-vision/DwNet
-        https://stylegan-human.github.io/
-Text2Human: https://github.com/yumingj/Text2Human
+VBC: https://vision.cs.ubc.ca/datasets/fashion/ 
+      https://vision.cs.ubc.ca/datasets/fashion/resources/fashion_dataset/fashion_train.txt  
+github: https://github.com/ubc-vision/DwNet  
+        https://stylegan-human.github.io/  
+Text2Human: https://github.com/yumingj/Text2Human  
 
-deepfashion: https://github.com/yumingj/DeepFashion-MultiModal
+deepfashion: https://github.com/yumingj/DeepFashion-MultiModal  
 
 ## try-on 
 stable diffusion, controlNet
