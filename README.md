@@ -1,5 +1,5 @@
 # tryondiffusion
-Unofficial PyTorch implementation of the Try-On algorithm.
+Unofficial PyTorch implementation of the Try-On algorithm (tryondiffusion, sd+cn, PIDM).
 
 <img width="749" alt="image" src="https://github.com/La-fe/tryondiffusion/assets/37364197/3306bf70-7402-4e0d-9ceb-5f5f5e79cd6f">
 
